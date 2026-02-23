@@ -1,0 +1,5412 @@
+[
+  {
+    "name": "Bulbasaur",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ivysaur",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Venusaur",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Charmander",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Charmeleon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Charizard",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Squirtle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wartortle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Blastoise",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Caterpie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Metapod",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Butterfree",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Weedle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kakuna",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Beedrill",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pidgey",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pidgeotto",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pidgeot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rattata",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rattata [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Raticate",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Raticate [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spearow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fearow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ekans",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arbok",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pikachu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Raichu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Raichu [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandshrew",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandshrew [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandslash",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandslash [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nidoran ♀",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nidorina",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nidoqueen",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nidoran ♂",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nidorino",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nidoking",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Clefairy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Clefable",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vulpix",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vulpix [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ninetales",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ninetales [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Jigglypuff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wigglytuff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zubat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Golbat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Oddish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gloom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vileplume",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Paras",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Parasect",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Venonat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Venomoth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Diglett",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Diglett [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dugtrio",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dugtrio [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meowth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meowth [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meowth [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Persian",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Persian [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Psyduck",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Golduck",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mankey",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Primeape",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Growlithe",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Growlithe [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arcanine",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arcanine [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Poliwag",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Poliwhirl",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Poliwrath",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Abra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kadabra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Alakazam",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Machop",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Machoke",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Machamp",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bellsprout",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Weepinbell",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Victreebel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tentacool",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tentacruel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Geodude",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Geodude [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Graveler",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Graveler [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Golem",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Golem [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ponyta",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ponyta [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rapidash",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rapidash [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slowpoke",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slowpoke [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slowbro",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slowbro [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magnemite",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magneton",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Farfetch'd",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Farfetch'd [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Doduo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dodrio",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Seel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dewgong",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grimer",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grimer [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Muk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Muk [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shellder",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cloyster",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gastly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Haunter",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gengar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Onix",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drowzee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hypno",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Krabby",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kingler",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Voltorb",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Voltorb [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Electrode",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Electrode [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Exeggcute",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Exeggutor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Exeggutor [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cubone",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Marowak",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Marowak [Alolan]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hitmonlee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hitmonchan",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lickitung",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Koffing",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Weezing",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Weezing [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rhyhorn",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rhydon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chansey",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tangela",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kangaskhan",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Horsea",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Seadra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Goldeen",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Seaking",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Staryu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Starmie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mr. Mime",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mr. Mime [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scyther",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Jynx",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Electabuzz",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magmar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pinsir",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tauros",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tauros [Paldean]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magikarp",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gyarados",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lapras",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ditto",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Eevee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vaporeon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Jolteon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flareon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Porygon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Omanyte",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Omastar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kabuto",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kabutops",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Aerodactyl",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Snorlax",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Articuno",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Articuno [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zapdos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zapdos [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Moltres",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Moltres [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dratini",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dragonair",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dragonite",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mewtwo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mew",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chikorita",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bayleef",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meganium",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cyndaquil",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Quilava",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Typhlosion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Typhlosion [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Totodile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Croconaw",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Feraligatr",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sentret",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Furret",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hoothoot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Noctowl",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ledyba",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ledian",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spinarak",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ariados",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Crobat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chinchou",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lanturn",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pichu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cleffa",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Igglybuff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Togepi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Togetic",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Natu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Xatu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mareep",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flaaffy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ampharos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bellossom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Marill",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Azumarill",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sudowoodo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Politoed",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hoppip",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skiploom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Jumpluff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Aipom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sunkern",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sunflora",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Yanma",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wooper",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wooper [Paldean]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Quagsire",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Espeon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Umbreon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Murkrow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slowking",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slowking [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Misdreavus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Unown",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wobbuffet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Girafarig",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pineco",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Forretress",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dunsparce",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gligar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Steelix",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Snubbull",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Granbull",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Qwilfish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Qwilfish [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scizor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shuckle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Heracross",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sneasel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sneasel [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Teddiursa",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ursaring",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slugma",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magcargo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swinub",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Piloswine",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Corsola",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Corsola [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Remoraid",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Octillery",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Delibird",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mantine",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skarmory",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Houndour",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Houndoom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kingdra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Phanpy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Donphan",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Porygon2",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stantler",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Smeargle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tyrogue",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hitmontop",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Smoochum",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Elekid",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magby",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Miltank",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Blissey",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Raikou",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Entei",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Suicune",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Larvitar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pupitar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tyranitar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lugia",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ho-oh",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Celebi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Treecko",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grovyle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sceptile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Torchic",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Combusken",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Blaziken",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mudkip",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Marshtomp",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swampert",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Poochyena",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mightyena",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zigzagoon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zigzagoon [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Linoone",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Linoone [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wurmple",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Silcoon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Beautifly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cascoon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dustox",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lotad",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lombre",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ludicolo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Seedot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nuzleaf",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shiftry",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Taillow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swellow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wingull",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pelipper",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ralts",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kirlia",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gardevoir",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Surskit",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Masquerain",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shroomish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Breloom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slakoth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vigoroth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slaking",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nincada",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ninjask",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shedinja",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Whismur",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Loudred",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Exploud",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Makuhita",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hariyama",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Azurill",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nosepass",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skitty",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Delcatty",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sableye",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mawile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Aron",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lairon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Aggron",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meditite",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Medicham",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Electrike",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Manectric",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Plusle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Minun",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Volbeat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Illumise",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Roselia",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gulpin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swalot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Carvanha",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sharpedo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wailmer",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wailord",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Numel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Camerupt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Torkoal",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spoink",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grumpig",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spinda",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Trapinch",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vibrava",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flygon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cacnea",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cacturne",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swablu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Altaria",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zangoose",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Seviper",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lunatone",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Solrock",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Barboach",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Whiscash",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Corphish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Crawdaunt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Baltoy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Claydol",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lileep",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cradily",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Anorith",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Armaldo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Feebas",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Milotic",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Castform",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kecleon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shuppet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Banette",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Duskull",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dusclops",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tropius",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chimecho",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Absol",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wynaut",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Snorunt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Glalie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spheal",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sealeo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Walrein",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Clamperl",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Huntail",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gorebyss",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Relicanth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Luvdisc",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bagon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shelgon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Salamence",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Beldum",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Metang",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Metagross",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Regirock",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Regice",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Registeel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Latias",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Latios",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kyogre",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Groudon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rayquaza",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Jirachi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Deoxys",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Turtwig",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grotle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Torterra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chimchar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Monferno",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Infernape",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Piplup",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Prinplup",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Empoleon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Starly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Staravia",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Staraptor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bidoof",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bibarel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kricketot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kricketune",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shinx",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Luxio",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Luxray",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Budew",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Roserade",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cranidos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rampardos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shieldon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bastiodon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Burmy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wormadam",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mothim",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Combee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vespiquen",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pachirisu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Buizel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Floatzel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cherubi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cherrim",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shellos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gastrodon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ambipom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drifloon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drifblim",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Buneary",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lopunny",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mismagius",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Honchkrow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Glameow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Purugly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chingling",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stunky",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skuntank",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bronzor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bronzong",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bonsly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mime Jr.",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Happiny",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chatot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spiritomb",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gible",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gabite",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Garchomp",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Munchlax",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Riolu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lucario",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hippopotas",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hippowdon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skorupi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drapion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Croagunk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Toxicroak",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Carnivine",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Finneon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lumineon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mantyke",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Snover",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Abomasnow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Weavile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magnezone",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lickilicky",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rhyperior",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tangrowth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Electivire",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magmortar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Togekiss",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Yanmega",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Leafeon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Glaceon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gliscor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mamoswine",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Porygon-Z",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gallade",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Probopass",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dusknoir",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Froslass",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rotom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Uxie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mesprit",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Azelf",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dialga",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Palkia",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Heatran",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Regigigas",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Giratina",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cresselia",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Phione",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Manaphy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Darkrai",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shaymin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arceus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Victini",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Snivy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Servine",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Serperior",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tepig",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pignite",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Emboar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Oshawott",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dewott",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Samurott",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Samurott [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Patrat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Watchog",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lillipup",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Herdier",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stoutland",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Purrloin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Liepard",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pansage",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Simisage",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pansear",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Simisear",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Panpour",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Simipour",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Munna",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Musharna",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pidove",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tranquill",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Unfezant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Blitzle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zebstrika",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Roggenrola",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Boldore",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gigalith",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Woobat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swoobat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drilbur",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Excadrill",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Audino",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Timburr",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gurdurr",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Conkeldurr",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tympole",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Palpitoad",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Seismitoad",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Throh",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sawk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sewaddle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swadloon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Leavanny",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Venipede",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Whirlipede",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scolipede",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cottonee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Whimsicott",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Petilil",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lilligant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lilligant [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Basculin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Krokorok",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Krookodile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Darumaka",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Darumaka [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Darmanitan",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Darmanitan [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Maractus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dwebble",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Crustle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scraggy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scrafty",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sigilyph",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Yamask",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Yamask [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cofagrigus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tirtouga",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Carracosta",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Archen",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Archeops",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Trubbish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Garbodor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zorua",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zorua [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zoroark",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zoroark [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Minccino",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cinccino",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gothita",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gothorita",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gothitelle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Solosis",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Duosion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Reuniclus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ducklett",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swanna",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vanillite",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vanillish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vanilluxe",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Deerling",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sawsbuck",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Emolga",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Karrablast",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Escavalier",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Foongus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Amoonguss",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Frillish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Jellicent",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Alomomola",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Joltik",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Galvantula",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ferroseed",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ferrothorn",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Klink",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Klang",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Klinklang",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tynamo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Eelektrik",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Eelektross",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Elgyem",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Beheeyem",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Litwick",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lampent",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chandelure",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Axew",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fraxure",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Haxorus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cubchoo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Beartic",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cryogonal",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shelmet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Accelgor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stunfisk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stunfisk [Galarian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mienfoo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mienshao",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Druddigon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Golett",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Golurk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pawniard",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bisharp",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bouffalant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rufflet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Braviary",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Braviary [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vullaby",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mandibuzz",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Heatmor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Durant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Deino",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zweilous",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hydreigon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Larvesta",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Volcarona",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cobalion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Terrakion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Virizion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tornadus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Thundurus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Reshiram",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zekrom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Landorus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kyurem",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Keldeo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meloetta",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Genesect",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chespin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Quilladin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chesnaught",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fennekin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Braixen",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Delphox",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Froakie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Frogadier",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Greninja",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bunnelby",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Diggersby",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fletchling",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fletchinder",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Talonflame",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scatterbug",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spewpa",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vivillon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Litleo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pyroar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flabebe",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Floette",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Florges",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skiddo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gogoat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pancham",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pangoro",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Furfrou",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Espurr",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meowstic",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Honedge",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Doublade",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Aegislash",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spritzee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Aromatisse",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Swirlix",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slurpuff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Inkay",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Malamar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Binacle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Barbaracle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skrelp",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dragalge",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Clauncher",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Clawitzer",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Helioptile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Heliolisk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tyrunt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tyrantrum",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Amaura",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Aurorus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sylveon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hawlucha",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dedenne",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Carbink",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Goomy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sliggoo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sliggoo [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Goodra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Goodra [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Klefki",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Phantump",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Trevenant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pumpkaboo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gourgeist",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bergmite",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Avalugg",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Avalugg [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Noibat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Noivern",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Xerneas",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Yveltal",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zygarde",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Diancie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hoopa",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Volcanion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rowlet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dartrix",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Decidueye",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Decidueye [Hisuian]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Litten",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Torracat",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Incineroar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Popplio",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Brionne",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Primarina",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pikipek",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Trumbeak",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Toucannon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Yungoos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gumshoos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grubbin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Charjabug",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Vikavolt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Crabrawler",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Crabominable",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Oricorio",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cutiefly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ribombee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rockruff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lycanroc",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wishiwashi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mareanie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Toxapex",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mudbray",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mudsdale",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dewpider",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Araquanid",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fomantis",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lurantis",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Morelull",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shiinotic",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Salandit",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Salazzle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stufful",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bewear",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bounsweet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Steenee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tsareena",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Comfey",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Oranguru",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Passimian",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wimpod",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Golisopod",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandygast",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Palossand",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pyukumuku",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Type: Null",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Silvally",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Minior",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Komala",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Turtonator",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Togedemaru",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mimikyu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bruxish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drampa",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dhelmise",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Jangmo-o",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hakamo-o",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kommo-o",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tapu Koko",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tapu Lele",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tapu Bulu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tapu Fini",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cosmog",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cosmoem",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Solgaleo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lunala",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nihilego",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Buzzwole",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pheromosa",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Xurkitree",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Celesteela",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kartana",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Guzzlord",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Necrozma",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Magearna",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Marshadow",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Poipole",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Naganadel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stakataka",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Blacephalon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zeraora",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meltan",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Melmetal",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grookey",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Thwackey",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rillaboom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scorbunny",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Raboot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cinderace",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sobble",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drizzile",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Inteleon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skwovet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Greedent",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rookidee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Corvisquire",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Corviknight",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Blipbug",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dottler",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Orbeetle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nickit",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Thievul",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gossifleur",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Eldegoss",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wooloo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dubwool",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chewtle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drednaw",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Yamper",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Boltund",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rolycoly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Carkol",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Coalossal",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Applin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flapple",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Appletun",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Silicobra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandaconda",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cramorant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arrokuda",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Barraskewda",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Toxel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Toxtricity",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sizzlipede",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Centiskorch",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Clobbopus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grapploct",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sinistea",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Polteageist",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hatenna",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hattrem",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hatterene",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Impidimp",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Morgrem",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grimmsnarl",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Obstagoon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Perrserker",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cursola",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sirfetch'd",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mr. Rime",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Runerigus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Milcery",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Alcremie",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Falinks",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pincurchin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Snom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Frosmoth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Stonjourner",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Eiscue",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Indeedee",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Morpeko",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cufant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Copperajah",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dracozolt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arctozolt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dracovish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arctovish",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Duraludon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dreepy",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Drakloak",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dragapult",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zacian",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zamazenta",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Eternatus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kubfu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Urshifu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Zarude",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Regieleki",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Regidrago",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Glastrier",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spectrier",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Calyrex",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wyrdeer",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kleavor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ursaluna",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ursaluna [Bloodmoon]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Basculegion",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sneasler",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Overqwil",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Enamorus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sprigatito",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Floragato",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Meowscarada",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fuecoco",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Crocalor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Skeledirge",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Quaxly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Quaxwell",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Quaquaval",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lechonk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Oinkologne",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tarountula",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Spidops",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nymble",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Lokix",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pawmi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pawmo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pawmot",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tandemaus",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Maushold",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fidough",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dachsbun",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Smoliv",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dolliv",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arboliva",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Squawkabilly",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Nacli",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Naclstack",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Garganacl",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Charcadet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Armarouge",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ceruledge",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tadbulb",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bellibolt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wattrel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kilowattrel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Maschiff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Mabosstiff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Shroodle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Grafaiai",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bramblin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Brambleghast",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Toedscool",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Toedscruel",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Klawf",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Capsakid",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scovillain",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rellor",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Rabsca",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flittle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Espathra",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tinkatink",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tinkatuff",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tinkaton",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wiglett",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wugtrio",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Bombirdier",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Finizen",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Palafin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Varoom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Revavroom",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cyclizar",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Orthworm",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Glimmet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Glimmora",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Greavard",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Houndstone",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flamigo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cetoddle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Cetitan",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Veluza",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dondozo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Tatsugiri",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Annihilape",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Clodsire",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Farigiraf",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dudunsparce",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Kingambit",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Great Tusk",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Scream Tail",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Brute Bonnet",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Flutter Mane",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Slither Wing",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sandy Shocks",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Treads",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Bundle",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Hands",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Jugulis",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Moth",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Thorns",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Frigibax",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Arctibax",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Baxcalibur",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gimmighoul [Roaming]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gimmighoul [Chest]",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gholdengo",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Wo-Chien",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chien-Pao",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ting-Lu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Chi-Yu",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Roaring Moon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Valiant",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Koraidon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Miraidon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Walking Wake",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Leaves",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Dipplin",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Poltchageist",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Sinistcha",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Okidogi",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Munkidori",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Fezandipiti",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Ogerpon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Archaludon",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Hydrapple",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Gouging Fire",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Raging Bolt",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Boulder",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Iron Crown",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Terapagos",
+    "min_level": 1,
+    "max_level": 1
+  },
+  {
+    "name": "Pecharunt",
+    "min_level": 1,
+    "max_level": 1
+  }
+]
