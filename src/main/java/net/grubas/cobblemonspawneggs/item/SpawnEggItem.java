@@ -6,6 +6,8 @@ import net.minecraft.server.MinecraftServer;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.context.UseOnContext;
+import net.minecraft.core.BlockPos;
+import net.minecraft.world.phys.Vec3;
 
 public class SpawnEggItem extends Item {
 
@@ -25,7 +27,10 @@ public class SpawnEggItem extends Item {
             int level = min + (int)(Math.random() * (max - min + 1));
 
             MinecraftServer server = context.getLevel().getServer();
-            CommandSourceStack source = context.getPlayer().createCommandSourceStack().withPermission(4);
+            BlockPos pos = context.getClickedPos().relative(context.getClickedFace());
+            CommandSourceStack source = context.getPlayer().createCommandSourceStack()
+                    .withPermission(4)
+                    .withPosition(Vec3.atBottomCenterOf(pos));
             server.getCommands().performPrefixedCommand(source, "spawnpokemon " + pokemonName + " level=" + level);
         }
         return InteractionResult.SUCCESS;
