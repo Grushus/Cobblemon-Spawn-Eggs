@@ -1,13 +1,14 @@
 package net.grubas.cobblemonspawneggs.item;
 
 import net.grubas.cobblemonspawneggs.PokemonConfigManager;
-import net.minecraft.commands.CommandSourceStack;
-import net.minecraft.server.MinecraftServer;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.phys.Vec3;
+import net.minecraft.server.level.ServerLevel;
+import com.cobblemon.mod.common.api.pokemon.PokemonProperties;
+import com.cobblemon.mod.common.entity.pokemon.PokemonEntity;
 
 public class SpawnEggItem extends Item {
 
@@ -26,12 +27,19 @@ public class SpawnEggItem extends Item {
             int max = levels[1];
             int level = min + (int)(Math.random() * (max - min + 1));
 
-            MinecraftServer server = context.getLevel().getServer();
+            ServerLevel level_world = (ServerLevel) context.getLevel();
             BlockPos pos = context.getClickedPos().relative(context.getClickedFace());
-            CommandSourceStack source = context.getPlayer().createCommandSourceStack()
-                    .withPermission(4)
-                    .withPosition(Vec3.atBottomCenterOf(pos));
-            server.getCommands().performPrefixedCommand(source, "spawnpokemon " + pokemonName + " level=" + level);
+            Vec3 spawnPos = Vec3.atBottomCenterOf(pos);
+
+            // Parse pokemon properties using Cobblemon's API
+            PokemonProperties props = PokemonProperties.Companion.parse(
+                    pokemonName + " level=" + level, " ", "="
+            );
+
+            // Create and spawn the entity directly
+            PokemonEntity entity = props.createEntity(level_world);
+            entity.setPos(spawnPos.x, spawnPos.y, spawnPos.z);
+            level_world.addFreshEntity(entity);
         }
         return InteractionResult.SUCCESS;
     }
